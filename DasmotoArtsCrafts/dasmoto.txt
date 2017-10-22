@@ -1,0 +1,9 @@
+h1 {
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+
+
+/*  https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg  */
